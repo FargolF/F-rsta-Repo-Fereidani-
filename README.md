@@ -24,6 +24,14 @@ Till exempel:
 VS Code eller **Visual Studio Code** är en utvecklingsverktyg som används för redigering av källkod. 
 
 
+## Vad är CSS? <img width="20" height="20" alt="css3" src="https://github.com/user-attachments/assets/55a187e1-745b-4b68-ab9a-1a6383bdca78" />
+
+Cascading Style Sheet används använder vi för att beskriva hur en HTML-element ska visas. Med hjälp av **CSS** kan man byta färg, typsnitt, mellanrum och mycket mer.
+
+
+
+
+
 
 ### Detta repo är första steget för mig för att bli tryggare med dessa verktyg. 
 
