@@ -2,7 +2,7 @@
 
 ## Mitt första Github projekt🚀
 
-Hej och välkommen! 
+Hej och välkommen!👋
 
 I detta  *repo* ska jag visa grunderna till **Git**, **Markdown** och **VSCode**, som utgör grunden för webbutveckling och som en webbutvecklare bör vara bekant med redan tidig i sin karriär. 
 
