@@ -4,7 +4,7 @@
 
 Hej och välkommen!👋
 
-I detta  *repo* ska jag visa grunderna till **Git**, **Markdown** och **VSCode**, som utgör grunden för webbutveckling och som en webbutvecklare bör vara bekant med redan tidig i sin karriär. 
+I detta  *repo* ska jag visa grunderna till **Git**, **Markdown** och **VSCode**, som utgör grunden för webbutveckling och som en webbutvecklare bör vara bekant med tidig i sin karriär. 
 
 ## Vad är Git? <img width="20" height="20" alt="git" src="https://github.com/user-attachments/assets/c4db04d8-9e75-407c-8f5a-3b52638d75ae" />
 
