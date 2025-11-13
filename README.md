@@ -8,7 +8,7 @@ I detta  *repo* ska jag visa grunderna till **Git**, **Markdown** och **VSCode**
 
 ## Vad är Git? <img width="20" height="20" alt="git" src="https://github.com/user-attachments/assets/c4db04d8-9e75-407c-8f5a-3b52638d75ae" />
 
-*Git* är en versionshanteringssytem som låter en att spara olika versioner av ett projekt över tid. 
+*Git* är en versionshanteringssytem som låter en att spara olika tillstånd av ett projekt över tid. 
 
 ## Vad är Markdown? <img width="20" height="20" alt="Markdown-mark svg" src="https://github.com/user-attachments/assets/ae81ada8-9dcd-47b7-8572-6bb75f42e41c" />
 
