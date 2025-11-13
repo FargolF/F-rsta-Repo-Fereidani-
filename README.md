@@ -1,4 +1,4 @@
-# Första-Repo-Fereidani
+# Första Repo - Fereidani, Fargol
 
 ## Mitt första Github projekt🚀
 
